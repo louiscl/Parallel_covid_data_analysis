@@ -18,6 +18,7 @@ and place only the covid\_\*.csv files inside the "program/covid/data" directory
 ### 2) Run the program
 
 The command line application takes four arguments:<br/>
+<br/>
 threads = the number of threads (i.e., goroutines to spawn)<br/>
 zipcode = a possible Chicago zipcode<br/>
 month = the month to display for that zipcode<br/>
