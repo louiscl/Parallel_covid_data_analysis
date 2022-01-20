@@ -24,6 +24,6 @@ zipcode = a possible Chicago zipcode<br/>
 month = the month to display for that zipcode<br/>
 year = the year to display for that zipcode<br/>
 
-Within the "covid" directory run: <br/>
+Within the "covid" directory run: <br/><br/>
 go run bounded.go worker.go covid.go threads zipcode month year <br/>
-e.g. go run bounded.go worker.go covid.go 2 60603 5 2020 
+#####(e.g. go run bounded.go worker.go covid.go 2 60603 5 2020) 
