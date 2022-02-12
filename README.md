@@ -2,7 +2,7 @@
 
 ## Applying work-stealing scheduling using a DEQueue
 
-This command line application analysis a given data set of covid cases in the Chicago area and returns the number of cases, tests and deaths for a provided zipcode, month and year.
+This command line application analyzes a given data set of covid cases in the Chicago area and returns the number of cases, tests and deaths for a provided zipcode, month and year.
 It does so by applying parallel computation, and in specific a work-stealing scheduling between spawned threads.
 
 ## How to use the program
